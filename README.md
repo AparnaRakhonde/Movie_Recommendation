@@ -26,9 +26,14 @@ This is a fun and interactive movie recommendation app built using **Python** an
 ## 🔧 Getting Started
 
 ### ✅ Run Locally
+
 ```bash
-# Step 1: Install required libraries
+# Step 1: Clone the repository
+git clone https://github.com/AparnaRakhonde/Movie_Recommendation.git
+cd Movie_Recommendation
+
+# Step 2: Install required libraries
 pip install -r requirements.txt
 
-# Step 2: Run the app
+# Step 3: Run the Streamlit app
 streamlit run app.py
